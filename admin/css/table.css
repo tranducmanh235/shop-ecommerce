@@ -1,0 +1,28 @@
+#user_dialog {
+    display: none;
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    position: absolute;
+    top: 200px;
+    left: 40%;
+    background-color: #fff;
+}
+
+li {
+
+}
+.li-menu{
+    display: inline-block;
+    /* float: left; */
+    margin-right: 10px;
+
+}
+li a i {
+    margin-left: 0px;
+}
+
+ul {
+    margin-left: 5px;
+}

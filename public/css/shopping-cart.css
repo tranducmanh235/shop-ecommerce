@@ -1,0 +1,11 @@
+.coupon #coupon_code {
+    margin-right: 10px;
+}
+
+.input-product-quantity {
+    border-radius: 5px;
+    border: 1px solid #56CCF2;
+    background-color: #eee;
+    height: 30px;
+    width: 50px;
+}
